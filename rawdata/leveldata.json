@@ -1,0 +1,10 @@
+{
+  "fbz1_layout":  { "File": "FBZ/Layout/1.bin" },
+  "fbz1_objects": { "File": "FBZ/Object Pos/1.bin" },
+  "fbz1_rings":   { "File": "FBZ/Ring Pos/1.bin" },
+
+  "fbz2_layout":  { "File": "FBZ/Layout/2.bin" },
+  "fbz2_objects": { "File": "FBZ/Object Pos/2.bin" },
+  "fbz2_rings":   { "File": "FBZ/Ring Pos/2.bin" },  
+ 
+}

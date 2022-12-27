@@ -1,0 +1,17 @@
+{
+	"PaletteFBZ1": {
+      "File": "FBZ/FBZ1.bin",
+      "RomInject": "0xA909C"
+    },
+	
+	"PaletteFBZ2": {
+      "File": "FBZ/FBZ2.bin",
+      "RomInject": "0xA90FC"
+    },
+	
+	"PaletteOutdoor2": {
+      "File": "FBZ/FBZ BG Outdoors.bin",
+	  "RomInject": "0x052DD0"
+    },
+}
+  
